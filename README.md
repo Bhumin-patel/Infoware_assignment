@@ -4,8 +4,8 @@
 
 In the project directory, you can run:
 
-### `npm run start`
+### npm run start
 
 To run project into development environment
 
-### `npm run dev`
+### npm run dev
